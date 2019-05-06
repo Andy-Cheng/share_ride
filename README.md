@@ -11,7 +11,7 @@ pick the nearst passengers in the region of the map.
 4. Otherwise, pick a destination or a passenger with the minimum distance.
 
 For **all the users**:
-1. Cluster passengers on the map by the vectors.
+1. Cluster passengers on the map by the vectors(origin to destination).
 2. For each groupe determined by the clustering described above, run the procedure for **each car**.
 
 ## Output
